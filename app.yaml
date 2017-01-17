@@ -5,4 +5,4 @@ api_version: 1
 
 handlers:
 - url: /.*
-  script: cc.php
+  script: Stiki.php
