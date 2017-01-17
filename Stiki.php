@@ -2,7 +2,7 @@
     <head>
         <title>Google Maps API - harviacode.com</title>
         <!--1. Memanggil google Maps API-->
-        <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyBfKk0YVKEMSenYV5HvgEwp-_X1nBYyxis&callback=initMap"></script>
+        <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyC_xek8_BDjw02nURtwl6hy34-Ldo-2Sak&callback=initMap"></script>
  
         <script>
             // 2. menambahkan properti peta
