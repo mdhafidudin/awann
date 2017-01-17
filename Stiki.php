@@ -2,8 +2,7 @@
     <head>
         <title>Google Maps API - harviacode.com</title>
         <!--1. Memanggil google Maps API-->
-        <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyC_xek8_BDjw02nURtwl6hy34-Ldo-2Sak&callback=initMap"></script>
- 
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCdEqu7Fworb5KwmQtReKeghN-NO1SJgbs&libraries=places&callback=initMap" async defer></script>
         <script>
             // 2. menambahkan properti peta
             function initialize() {
@@ -33,6 +32,6 @@
     </head>
     <body>
         <!--3. membuat div untuk menampilkan peta-->
-        <div id="tempat_peta" style="width:800px;height:500px;"></div>
+        <div id="tempat_peta" style="width:900px;height:800px;"></div>
     </body>
 </html>
