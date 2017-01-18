@@ -4,6 +4,26 @@
     <title>Place searches</title>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+        width: 95%;
+        height: 75%;
+        overflow: auto;
+        float: left;
+        padding-left: 10px;
+        padding-right: 10px;
+		//krisna lagi
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
         <h1>Komputasi Awan - Project</h1>
         <p>
         Map yang menentukan toko dan atm terdekat dari stiki malang dengan radius 500 meter
